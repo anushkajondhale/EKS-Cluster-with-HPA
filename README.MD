@@ -83,16 +83,9 @@ Apache Web Server (PHP image)
 
 Busybox (load generator)
 
-📬 Contact
-
-Feel free to connect and share feedback! 🚀
-🔗 LinkedIn | 🐙 GitHub
 
 📄 License
 
 This project is licensed under the MIT License.
 
 
----
-
-👉 Do you want me to also include a **YAML manifest for `deployment.yaml` + `hpa.yaml`** so you can avoid running `kubectl create ... --dry-run` and just apply directly? That would make your README completely self-contained.
