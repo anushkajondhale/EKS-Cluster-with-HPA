@@ -65,8 +65,6 @@ kubectl get hpa -w
 kubectl get pods
 kubectl top pods
 
-📸 Screenshots (to be added)
-
 kubectl get hpa -w showing pod scaling
 
 kubectl top pods with CPU utilization
